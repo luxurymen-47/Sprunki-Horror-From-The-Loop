@@ -197,4 +197,4 @@ This repository serves as the official landing page for Sprunki Horror from the 
 **Get the most recent version of Sprunki Horror from the Loop today!**
 
 ---
-**Last updated:** 2026-11-12 23:25:36 UTC
+**Last updated:** 2026-11-13 06:03:33 UTC
